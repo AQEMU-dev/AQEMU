@@ -16,7 +16,7 @@ Yep, on internet archive I will have premade roms to test out for usageo, or to 
 
 Yes, AQEMU is legal, since QEMU itself is GPL 3.0 licensed, so I can do whatever to the code of QEMU as long as I credit them
 
-Credits to: www.github/termux for the termux application needed, www.github/QEMU for the 7.0.0 source code
+Credits to: www.github.com/termux for the termux application needed, www.github.com/QEMU for the 7.0.0 source code
 
 # Well what is the legality of the premade ROMS?
 
