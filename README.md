@@ -2,6 +2,11 @@
 AQEMU (Android QEMU) is a fork of QEMU designed to be installed on Android devices within termux 
 back in 2022 I found out that it was very hard to install QEMU without errors (And only version 7.0.0 seems to work well in termux!)
 
+
+Changes where made to the 9pfs files during 2022
+
+
+
 # requirements
 AQEMU-DEV recommends to use quad cores+ CPUs for AQEMU, you will need 4GiBs space, but you will need lots more for the ISOs and HDD images
 
