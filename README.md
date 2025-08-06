@@ -30,7 +30,7 @@ we are skipping mac due to pontentional DMCA strikes against this project, and d
 
 # Is this even legal?
 
-Yes, AQEMU is legal, since QEMU itself is GPL 3.0 licensed, so I can do whatever to the code of QEMU as long as I credit them
+Yes, AQEMU is legal, since QEMU itself is GPL 2.0 licensed, so I can do whatever to the code of QEMU as long as I credit them
 
 Credits to: www.github.com/termux for the termux application needed, www.github.com/QEMU for the 7.0.0 source code
 
